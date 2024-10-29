@@ -1,0 +1,6 @@
+.env
+venv/
+memory.json
+test-langchain.py
+test-openai.py
+test.py
